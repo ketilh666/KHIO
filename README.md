@@ -2,5 +2,6 @@
  o IRAP ASCII grids,
  o ESRI ASCII grids,
  o xyz files,
- o SEGY files.
+ o SEGY files,
+ o shapefiles.
 
